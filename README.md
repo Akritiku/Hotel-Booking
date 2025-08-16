@@ -76,5 +76,3 @@ npm start
 3. Review and rating system for hotels
 
 5. Admin panel to manage hotels and bookings
-
-# View Project
