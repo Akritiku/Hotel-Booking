@@ -65,7 +65,7 @@ npm start
 5. Login/signup to view your booking history
 
 # 📁 Folder Structure
-<img width="979" height="371" alt="image" src="https://github.com/user-attachments/assets/f87b541a-645d-423d-a6f5-4ca4c9ada57c" />
+<img width="1891" height="851" alt="image" src="https://github.com/user-attachments/assets/980db536-8101-44bc-befb-b60ac76e7efc" />
 
 # 🔮 Future Enhancements
 
